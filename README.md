@@ -28,7 +28,7 @@
 
 - **Email**: azmolhaque95@gmail.com  
 - **Phone**: +8801888‑642134  
-- **LinkedIn**: [linkedin.com/in/Md.AzmolHaque] (https://www.linkedin.com/in/md-azmol-haque-rony/)  
+- **LinkedIn**: https://www.linkedin.com/in/md-azmol-haque-rony/  
 
 ---
 
