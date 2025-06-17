@@ -1,23 +1,44 @@
-# Welcome to My Cybersecurity Portfolio!
+# 👨‍💻 Azmol Haque's Cybersecurity Resume
 
-## About Me
-I am a passionate cybersecurity enthusiast transitioning from nursing. I have completed the **Google Security Analyst** course and have hands-on experience with SIEM tools.
+![Download Resume PDF](https://img.shields.io/badge/Download-PDF-green?style=flat-square)  
+[Download PDF](./resume.pdf)
 
-## Skills
-- Linux
-- SQL Query 
-- Python Scripting 
-- Network Security
-- Incident Response
-- Vulnerability Assessment
-- Security Monitoring
+---
 
-## Projects
-- **Mastercard Cybersecurity virtual experience program on Forage - May 2024**
+## 🧰 Skills
 
- * Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team.
- * Helped identify and report security threats such as phishing email.
- * Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams.
+- Network & Web Application Security
+- Vulnerability Scanning (Nmap, Nuclei)
+- OSINT & Recon
+- Bash, Python
+- Digital Forensics Fundamentals
 
-## Contact Me
-Feel free to reach out to me at azmolhaque95@gmail.com
+---
+
+## 🎓 Certifications
+
+![Google Cybersecurity](./assets/badges/google-cybersecurity.png)
+![TryHackMe](./assets/badges/tryhackme-badge.png)
+
+> 📌 *Add badges or links to your online certifications.*
+
+---
+
+## 📫 Contact
+
+- **Email**: azmolhaque95@gmail.com  
+- **Phone**: +8801888‑642134  
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+
+---
+
+## 📄 License
+
+Licensed under the [MIT License](LICENSE).
+
+---
+
+## 🌐 GitHub Pages (Live Resume)
+
+View my resume site here:  
+🔗 [https://yourusername.github.io/resume-repo](https://yourusername.github.io/resume-repo)
