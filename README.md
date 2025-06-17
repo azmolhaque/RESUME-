@@ -28,7 +28,7 @@
 
 - **Email**: azmolhaque95@gmail.com  
 - **Phone**: +8801888‑642134  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **LinkedIn**: [linkedin.com/in/Md.AzmolHaque (https://www.linkedin.com/in/md-azmol-haque-rony/)  
 
 ---
 
@@ -41,4 +41,4 @@ Licensed under the [MIT License](LICENSE).
 ## 🌐 GitHub Pages (Live Resume)
 
 View my resume site here:  
-🔗 [https://yourusername.github.io/resume-repo](https://yourusername.github.io/resume-repo)
+🔗 [https://yourusername.github.io/resume-repo](https://github.com/azmolhaque/RESUME)
